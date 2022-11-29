@@ -1,0 +1,48 @@
+@prefix core: <http://w3id.org/polifonia/ontology/core/> .
+@prefix jams: <http://w3id.org/polifonia/ontology/jams/> .
+@prefix mc: <http://w3id.org/polifonia/ontology/musical-composition/> .
+@prefix pon-resource: <http://w3id.org/polifonia/resource/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+pon-resource:Agent%2Fannotator_local_id a core:Agent ;
+    rdfs:label "Danny Diamond" ;
+    jams:hasAnnotatorType pon-resource:annotator-program ;
+    jams:hasName "Danny Diamond" .
+
+<http://w3id.org/polifonia/resource/JAMSAnnotation/65454d859b130c909c3eda34c109e888c537dce5> a jams:JAMSAnnotation,
+        jams:JAMSScoreAnnotation ;
+    jams:includesObservation <http://w3id.org/polifonia/resource/JAMSObservation/2b8ed883144dbe5153d48f6906e691147163bc83>,
+        <http://w3id.org/polifonia/resource/JAMSObservation/b18723653fe47c766ddd0874a3b9d5458526db5f> ;
+    jams:isJAMSAnnotationOf <http://w3id.org/polifonia/resource/MusicalComposition/65454d859b130c909c3eda34c109e888c537dce5> .
+
+<http://w3id.org/polifonia/resource/Score/song_local_id> jams:hasJAMSAnnotation <http://w3id.org/polifonia/resource/MusicalComposition/65454d859b130c909c3eda34c109e888c537dce5> .
+
+<http://w3id.org/polifonia/resource/JAMSFile/65454d859b130c909c3eda34c109e888c537dce5> a jams:JAMSFile ;
+    jams:jamsVersion "0.3.4" ;
+    jams:release "pattern-demo" ;
+    prov:wasDerivedFrom "The Meertens" ;
+    prov:wasMemberOf <https://github.com/ashahidkhattak/thesession> .
+
+<http://w3id.org/polifonia/resource/JAMSObservation/2b8ed883144dbe5153d48f6906e691147163bc83> a jams:JAMSObservation,
+        jams:JAMSScoreObservation,
+        jams:ScorePatternOccurrence ;
+    jams:hasDuration "0.0"^^xsd:float ;
+    jams:hasFrequency "1"^^xsd:int ;
+    jams:hasPatternType "pitch-class-values" ;
+    jams:ofPattern <http://w3id.org/polifonia/resource/pattern/5_4_9_9_2_0> .
+
+<http://w3id.org/polifonia/resource/JAMSObservation/b18723653fe47c766ddd0874a3b9d5458526db5f> a jams:JAMSObservation,
+        jams:JAMSScoreObservation,
+        jams:ScorePatternOccurrence ;
+    jams:hasDuration "0.0"^^xsd:float ;
+    jams:hasFrequency "1"^^xsd:int ;
+    jams:hasPatternType "pitch-class-values" ;
+    jams:ofPattern <http://w3id.org/polifonia/resource/pattern/5_7_5_4_9_9> .
+
+<http://w3id.org/polifonia/resource/MusicalComposition/65454d859b130c909c3eda34c109e888c537dce5> a mc:MusicalComposition ;
+    rdfs:label "NLB150197_02" ;
+    mc:title "NLB150197_02" ;
+    prov:wasDerivedFrom <http://w3id.org/polifonia/resource/JAMSFile/65454d859b130c909c3eda34c109e888c537dce5> .
+

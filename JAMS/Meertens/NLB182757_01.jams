@@ -1,0 +1,475 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "Danny Diamond",
+          "email": "d.diamond1@nuigalway.ie"
+        },
+        "annotator": {
+          "name": "Danny Diamond"
+        },
+        "version": 1,
+        "corpus": "The Meertens",
+        "annotation_tools": "FONN-Tool",
+        "annotation_rules": null,
+        "validation": null,
+        "data_source": "program"
+      },
+      "namespace": "pattern_fonn",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "3501:NLB182757_01",
+            "pattern_content": "5, 2, 5, 2, 11, 7",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "5632:NLB182757_01",
+            "pattern_content": "7, 8, 5, 2, 10, 10",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "8368:NLB182757_01",
+            "pattern_content": "0, 0, 3, 7, 8, 5",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "8891:NLB182757_01",
+            "pattern_content": "7, 7, 7, 7, 5, 3",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "10507:NLB182757_01",
+            "pattern_content": "7, 3, 2, 0, 11, 0",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "10841:NLB182757_01",
+            "pattern_content": "2, 10, 10, 0, 8, 8",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "11225:NLB182757_01",
+            "pattern_content": "0, 3, 7, 8, 5, 2",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "11310:NLB182757_01",
+            "pattern_content": "0, 3, 7, 0, 3, 7",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "14328:NLB182757_01",
+            "pattern_content": "5, 2, 10, 10, 0, 8",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "14964:NLB182757_01",
+            "pattern_content": "0, 0, 3, 7, 0, 3",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "15165:NLB182757_01",
+            "pattern_content": "5, 2, 11, 7, 5, 5",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "15395:NLB182757_01",
+            "pattern_content": "8, 5, 2, 10, 10, 0",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "17079:NLB182757_01",
+            "pattern_content": "3, 2, 0, 11, 0, 0",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 2,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "17607:NLB182757_01",
+            "pattern_content": "7, 5, 7, 0, 3, 7",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "17707:NLB182757_01",
+            "pattern_content": "10, 10, 0, 8, 8, 5",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "18158:NLB182757_01",
+            "pattern_content": "5, 7, 0, 3, 7, 7",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "18582:NLB182757_01",
+            "pattern_content": "2, 0, 11, 0, 0, 3",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 2,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "19952:NLB182757_01",
+            "pattern_content": "5, 3, 2, 3, 3, 7",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "20150:NLB182757_01",
+            "pattern_content": "7, 7, 3, 2, 0, 11",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "20324:NLB182757_01",
+            "pattern_content": "3, 7, 7, 3, 2, 0",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "20705:NLB182757_01",
+            "pattern_content": "2, 5, 2, 11, 7, 5",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "23362:NLB182757_01",
+            "pattern_content": "3, 7, 8, 5, 2, 10",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "25061:NLB182757_01",
+            "pattern_content": "2, 3, 3, 7, 5, 3",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "27434:NLB182757_01",
+            "pattern_content": "7, 0, 3, 7, 7, 3",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "27770:NLB182757_01",
+            "pattern_content": "7, 5, 3, 5, 5, 8",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "29163:NLB182757_01",
+            "pattern_content": "8, 10, 7, 7, 7, 7",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "30305:NLB182757_01",
+            "pattern_content": "8, 7, 5, 7, 0, 3",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "33290:NLB182757_01",
+            "pattern_content": "10, 0, 8, 8, 5, 8",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "33751:NLB182757_01",
+            "pattern_content": "0, 3, 7, 7, 3, 2",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "34784:NLB182757_01",
+            "pattern_content": "5, 3, 5, 5, 8, 7",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "35751:NLB182757_01",
+            "pattern_content": "5, 8, 10, 7, 7, 7",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "36498:NLB182757_01",
+            "pattern_content": "11, 0, 0, 3, 7, 8",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "38216:NLB182757_01",
+            "pattern_content": "0, 11, 0, 0, 3, 7",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 2,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "42063:NLB182757_01",
+            "pattern_content": "8, 5, 8, 10, 7, 7",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "42656:NLB182757_01",
+            "pattern_content": "8, 8, 5, 8, 10, 7",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "42981:NLB182757_01",
+            "pattern_content": "8, 5, 2, 5, 2, 11",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "NLB182757_01",
+    "artist": "",
+    "release": "pattern-demo",
+    "duration": 130,
+    "identifiers": {
+      "tune-corpus": "Meertens",
+      "url": "http://www.liederenbank.nl/mtc/182757"
+    },
+    "jams_version": "0.3.4"
+  },
+  "sandbox": {
+    "type": "score",
+    "expanded": "true",
+    "composers": []
+  }
+}

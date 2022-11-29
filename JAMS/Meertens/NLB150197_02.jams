@@ -1,0 +1,67 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "Danny Diamond",
+          "email": "d.diamond1@nuigalway.ie"
+        },
+        "annotator": {
+          "name": "Danny Diamond"
+        },
+        "version": 1,
+        "corpus": "The Meertens",
+        "annotation_tools": "FONN-Tool",
+        "annotation_rules": null,
+        "validation": null,
+        "data_source": "program"
+      },
+      "namespace": "pattern_fonn",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "34517:NLB150197_02",
+            "pattern_content": "5, 4, 9, 9, 2, 0",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "37025:NLB150197_02",
+            "pattern_content": "5, 7, 5, 4, 9, 9",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "NLB150197_02",
+    "artist": "",
+    "release": "pattern-demo",
+    "duration": 130,
+    "identifiers": {
+      "tune-corpus": "Meertens",
+      "url": "http://www.liederenbank.nl/mtc/150197"
+    },
+    "jams_version": "0.3.4"
+  },
+  "sandbox": {
+    "type": "score",
+    "expanded": "true",
+    "composers": []
+  }
+}

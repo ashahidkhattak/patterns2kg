@@ -1,0 +1,31 @@
+# these direcotory will be used by the code
+directories:
+  # 1. Pickle to Dictionary settings
+  # The pickle file from this direcotry will be loaded
+  music_pattern_directory: ./music_patterns_pickle
+  # This file will be read from the 'music_pattern_directory' directory
+  pickle_file_name        : MEERTENS_filtered_6gram_pitch_class_pattern_corpus.pkl
+  #Intermediate file e.g., 'MEERTENS.json' file will be create that contains dictionory of patterns
+  json_file_name        : MEERTENS.json
+  # JAMS files will be created for each tune and they will be saved in 'JAMS_files_directory'
+  # NOTE: here we need absolute path
+  JAMS_files_dir         : D:/Python-Projects/JAMS-Annotation/JAMS-pipeline/JAMS/Meertens/
+  # 2. Dictionary to JAMS - Settings
+  # schema directory
+  schemas_directory : ./schemas
+  # schema file
+  schema_file :  pattern_fonn.json
+
+jams_annotations:
+  # 1. Pickle to Dictionary settings
+  # no setting required
+  # 2. pickle to jams
+  corpus_name : Meertens
+  annotator_name : Danny Diamond
+  data_source : program
+  corpus : The Meertens
+  version : 1
+  email : d.diamond1@nuigalway.ie
+  annotation_tools : FONN-Tool
+  schema_name : pattern_fonn
+  tune_base_url : http://www.liederenbank.nl/mtc/

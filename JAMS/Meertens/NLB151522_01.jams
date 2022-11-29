@@ -1,0 +1,211 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "Danny Diamond",
+          "email": "d.diamond1@nuigalway.ie"
+        },
+        "annotator": {
+          "name": "Danny Diamond"
+        },
+        "version": 1,
+        "corpus": "The Meertens",
+        "annotation_tools": "FONN-Tool",
+        "annotation_rules": null,
+        "validation": null,
+        "data_source": "program"
+      },
+      "namespace": "pattern_fonn",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "9132:NLB151522_01",
+            "pattern_content": "7, 0, 0, 9, 2, 11",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "10055:NLB151522_01",
+            "pattern_content": "4, 2, 0, 9, 2, 11",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "14696:NLB151522_01",
+            "pattern_content": "0, 7, 0, 0, 9, 2",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "16047:NLB151522_01",
+            "pattern_content": "4, 4, 2, 0, 9, 2",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "18362:NLB151522_01",
+            "pattern_content": "2, 11, 4, 4, 2, 0",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "18486:NLB151522_01",
+            "pattern_content": "2, 9, 9, 0, 7, 0",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "22161:NLB151522_01",
+            "pattern_content": "0, 0, 9, 2, 11, 4",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "24723:NLB151522_01",
+            "pattern_content": "0, 9, 2, 11, 4, 4",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 2,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "26266:NLB151522_01",
+            "pattern_content": "7, 2, 0, 7, 2, 9",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "27419:NLB151522_01",
+            "pattern_content": "9, 9, 0, 7, 0, 0",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "28124:NLB151522_01",
+            "pattern_content": "9, 0, 7, 0, 0, 9",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "31206:NLB151522_01",
+            "pattern_content": "7, 2, 9, 9, 0, 7",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "37680:NLB151522_01",
+            "pattern_content": "2, 0, 9, 2, 11, 4",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "40210:NLB151522_01",
+            "pattern_content": "9, 2, 11, 4, 4, 2",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "NLB151522_01",
+    "artist": "",
+    "release": "pattern-demo",
+    "duration": 130,
+    "identifiers": {
+      "tune-corpus": "Meertens",
+      "url": "http://www.liederenbank.nl/mtc/151522"
+    },
+    "jams_version": "0.3.4"
+  },
+  "sandbox": {
+    "type": "score",
+    "expanded": "true",
+    "composers": []
+  }
+}

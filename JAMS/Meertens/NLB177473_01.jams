@@ -1,0 +1,439 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "Danny Diamond",
+          "email": "d.diamond1@nuigalway.ie"
+        },
+        "annotator": {
+          "name": "Danny Diamond"
+        },
+        "version": 1,
+        "corpus": "The Meertens",
+        "annotation_tools": "FONN-Tool",
+        "annotation_rules": null,
+        "validation": null,
+        "data_source": "program"
+      },
+      "namespace": "pattern_fonn",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "960:NLB177473_01",
+            "pattern_content": "0, 4, 2, 4, 7, 5",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 2,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "1324:NLB177473_01",
+            "pattern_content": "5, 2, 11, 2, 7, 0",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "1875:NLB177473_01",
+            "pattern_content": "7, 0, 4, 2, 4, 7",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "1913:NLB177473_01",
+            "pattern_content": "0, 0, 4, 0, 2, 2",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "2693:NLB177473_01",
+            "pattern_content": "7, 5, 2, 11, 2, 7",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "3983:NLB177473_01",
+            "pattern_content": "11, 0, 9, 7, 7, 4",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "4616:NLB177473_01",
+            "pattern_content": "4, 2, 4, 7, 5, 7",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 2,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "4704:NLB177473_01",
+            "pattern_content": "7, 5, 7, 5, 2, 11",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "5156:NLB177473_01",
+            "pattern_content": "4, 7, 5, 7, 5, 2",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "5185:NLB177473_01",
+            "pattern_content": "2, 11, 0, 0, 9, 11",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 2,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "7087:NLB177473_01",
+            "pattern_content": "2, 4, 7, 5, 7, 5",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "7320:NLB177473_01",
+            "pattern_content": "2, 2, 11, 0, 0, 9",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "7841:NLB177473_01",
+            "pattern_content": "11, 0, 0, 9, 11, 11",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 2,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "8105:NLB177473_01",
+            "pattern_content": "2, 4, 7, 5, 7, 7",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "8247:NLB177473_01",
+            "pattern_content": "0, 0, 9, 11, 11, 0",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "8263:NLB177473_01",
+            "pattern_content": "4, 0, 2, 2, 11, 0",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "8576:NLB177473_01",
+            "pattern_content": "2, 11, 2, 7, 0, 4",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "8661:NLB177473_01",
+            "pattern_content": "0, 4, 0, 2, 2, 11",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "9678:NLB177473_01",
+            "pattern_content": "4, 7, 5, 7, 7, 11",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "9759:NLB177473_01",
+            "pattern_content": "7, 7, 11, 0, 0, 4",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "11574:NLB177473_01",
+            "pattern_content": "0, 2, 2, 11, 0, 0",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "12229:NLB177473_01",
+            "pattern_content": "7, 5, 7, 7, 11, 0",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "15913:NLB177473_01",
+            "pattern_content": "11, 7, 11, 2, 11, 0",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "16964:NLB177473_01",
+            "pattern_content": "2, 7, 0, 4, 2, 4",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "23167:NLB177473_01",
+            "pattern_content": "11, 11, 0, 9, 7, 7",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "23239:NLB177473_01",
+            "pattern_content": "11, 2, 7, 0, 4, 2",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "25837:NLB177473_01",
+            "pattern_content": "9, 11, 11, 0, 9, 7",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "26930:NLB177473_01",
+            "pattern_content": "5, 7, 5, 2, 11, 2",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "26984:NLB177473_01",
+            "pattern_content": "5, 7, 7, 11, 0, 0",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "28786:NLB177473_01",
+            "pattern_content": "0, 0, 9, 11, 11, 7",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "33335:NLB177473_01",
+            "pattern_content": "11, 11, 7, 11, 2, 11",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "34742:NLB177473_01",
+            "pattern_content": "11, 2, 11, 0, 0, 9",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        },
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id": "39276:NLB177473_01",
+            "pattern_content": "7, 11, 0, 0, 4, 0",
+            "pattern_type": "pitch-class-values",
+            "pattern_frequency": 1,
+            "pattern_length": 6
+          },
+          "confidence": 1
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "NLB177473_01",
+    "artist": "",
+    "release": "pattern-demo",
+    "duration": 130,
+    "identifiers": {
+      "tune-corpus": "Meertens",
+      "url": "http://www.liederenbank.nl/mtc/177473"
+    },
+    "jams_version": "0.3.4"
+  },
+  "sandbox": {
+    "type": "score",
+    "expanded": "true",
+    "composers": []
+  }
+}
