@@ -83,18 +83,3 @@ if __name__ == "__main__":
     config = yaml.safe_load(open("config/jams2rdf_config.yml"))
     jams2rdf = JAMS2RDF(config)
     jams2rdf.iterateThroughDirectory()
-
-#if __name__ == "__main__":
-#    if len(sys.argv) < 2 or len(sys.argv) > 3:
-#        print("Usage: {0} <input file> [<output file>]".format(sys.argv[0]))
-#        exit(2)
-#    elif len(sys.argv) == 2:
-        # Conversion to stdout
-#        infilename = sys.argv[1]
-#        jams2rdf(os.path.abspath(infilename))
-#    elif len(sys.argv) == 3:
-        # Conversion to file
-#        infilename = sys.argv[1]
-#        outfilename = sys.argv[2]
-#        jams2rdf(os.path.abspath(infilename), outfilename)
-#    exit(0)
