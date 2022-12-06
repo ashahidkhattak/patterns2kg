@@ -8,7 +8,10 @@ directories:
   query_test_file : ./sparql_anything/jams_ontology_pattern.sparql
   #temporary file - deleted during query execution
   query_current_file : ./sparql_anything/current.rq
-
+  #SPARQL anything engine file, this is used to execute sparql query for JAMS conversion
+  sparql_anything_jar_file : ./sparql_anything/sa.jar
 settings:
+  #corpus collection
+  jams_collection: Meerterns
   #choco namespace
   namespace : http://purl.org/choco/data/
