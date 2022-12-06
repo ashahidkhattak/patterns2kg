@@ -9,6 +9,7 @@ import os
 
 class GenerateTunesJamsFile:
     config = []
+    jams_files_completions_status = 1
     def __init__(self, pickle_file,  config):
         print("The first step of JAMS Pipeline stated: pickle to JAMS creation")
         pattern_dict = {}
@@ -18,8 +19,12 @@ class GenerateTunesJamsFile:
         self.pickleFilePath = pickle_file
         patterns_data = {}
         self.config = config
+        self.jams_files_completions_status = 1
         if not os.path.isdir(self.config['directories']['JAMS_files_dir']):
             os.makedirs(self.config['directories']['JAMS_files_dir'])
+    # getter method
+    def get_jams_files_completions_status(self):
+        return self.jams_files_completions_status
 
     def __open_pickle_file(self):
         with open(self.pickleFilePath, 'rb') as f:
@@ -65,6 +70,7 @@ class GenerateTunesJamsFile:
         return pattern_annotation
 
     def createJAMSFiles(self):
+        self.jams_files_completions_status = 0
         try:
             self.__open_pickle_file()
         except Exception as e:
@@ -90,6 +96,9 @@ class GenerateTunesJamsFile:
             tuneJAMSFile.annotations.append(pattern_annotation)
             tuneJAMSFile.save(self.config['directories']['JAMS_files_dir']+ tuneName+".jams", strict=False)
             counter += 1
+
+        # this will be used by rdf generator
+        self.jams_files_completions_status = 0
 
 if __name__ == "__main__":
     config = yaml.safe_load(open("config/config.yml"))

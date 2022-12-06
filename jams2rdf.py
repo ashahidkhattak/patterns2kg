@@ -13,9 +13,9 @@ class JAMS2RDF:
     rdf_directory = ""
     jams_files_dirctory = ""
     config = []
-
+    jams2rdf_obj = None
     # constructor of the class for initialiazing various class level variables
-    def __init__(self, config, jams_files_dirctory):
+    def __init__(self, config, jams_files_dirctory, jams2rdf_obj):
         self.query_current = config['directories']['query_current_file']
         self.query_test = config['directories']['query_test_file']
         self.rdf_directory = config['directories']['rdf_directory']
@@ -24,7 +24,7 @@ class JAMS2RDF:
         self.namespace = config['settings']['namespace']
         self.jams_files_dirctory = jams_files_dirctory
         self.config = config
-
+        self.jams2rdf_obj = jams2rdf_obj
     # jams2rdf is the main function for converting a JAMS file into RDF, according to jams
     # ontology and by using the SPARQL Anything software.
     # In particular, this code calls the SPARQL Anything code, written in Java
@@ -68,17 +68,19 @@ class JAMS2RDF:
 
     # this function will iterate over JAMS directory
     def iterateThroughDirectory(self):
-            counter = 1
-            for filename in glob.iglob(self.jams_files_dirctory+ "*.jams", recursive=True):
-                if os.path.isfile(filename):  # filter dirs
-                    counter = counter + 1
-                    print(counter, filename)
-                    filenamewithext = os.path.basename(filename)
-                    jams_file, ext = os.path.splitext(filenamewithext)
-                    outfilePath = self.rdf_directory + "/" + jams_file + ".ttl"
-                    file_exists = os.path.exists(outfilePath)
-                    if not file_exists:
-                        self.jams2rdf(filename, outfilePath)
+            print("hello....")
+            while self.jams2rdf_obj.get_jams_files_completions_status() :
+                counter = 1
+                for filename in glob.iglob(self.jams_files_dirctory+ "*.jams", recursive=True):
+                    if os.path.isfile(filename):  # filter dirs
+                        counter = counter + 1
+                        print(counter, filename)
+                        filenamewithext = os.path.basename(filename)
+                        jams_file, ext = os.path.splitext(filenamewithext)
+                        outfilePath = self.rdf_directory + "/" + jams_file + ".ttl"
+                        file_exists = os.path.exists(outfilePath)
+                        if not file_exists:
+                            self.jams2rdf(filename, outfilePath)
 
 if __name__ == "__main__":
     config = yaml.safe_load(open("config/jams2rdf_config.yml"))
